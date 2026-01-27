@@ -1,0 +1,6 @@
+curl -X POST https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/forks
+
+{
+  "full_name": "Sivaram1457/mcino-Introduction-to-Git-and-GitHub",
+  "fork": true
+}
